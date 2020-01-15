@@ -31,3 +31,14 @@ Antes de começar a estudar PHP, é recomendável que você já saiba o básico 
 - Um arquivo PHP pode conter: Texto, HTML, CSS, JavaScript e **Código PHP**
 - Fluxo: códigos PHP executados no servidor e resultados exibidos no navegador
 - Extensão: **.php**
+
+### O que pode fazer
+- Gerar conteúdo dinâmico para páginas web
+- Arquivos no servidor: criação, leitura, escrita e deleção
+- Coletar dados de formulários HTML
+- Enviar e receber cookies
+- Banco de dados: adição, deleção e modificação de dados
+- Controlar acesso de usuários
+- Encriptar dados
+
+> Não limitado a HTML: imagens, PDFs, conteúdo flash, texto, XHTML e XML
