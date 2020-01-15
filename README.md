@@ -18,3 +18,12 @@ Antes de começar a estudar PHP, é recomendável que você já saiba o básico 
 - CSS
 - JavaScript
 
+### O que é
+- *PHP*: acrônimo recursivo para **PHP: Hypertext Preprocessor**
+- Largamente usado
+- Linguagem de script open-source
+- Scripts PHP são executados no servidor da aplicação, não no navegador do cliente
+- Gratuito para baixar e livre para usar
+- Poder: está no núcleo do WordPress e roda o Facebook
+- Facilidade: pode ser a primeira linguagem de lado servidor para um iniciante
+
