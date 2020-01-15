@@ -11,3 +11,10 @@ Repo for W3Schools PHP tutorials files and exercises (🇧🇷 PT-BR)
 
 ## Introdução
 - Linguagem de lado servidor (ou Server Side Language): o código é executado no servidor
+
+### O que você já deve saber
+Antes de começar a estudar PHP, é recomendável que você já saiba o básico dos seguintes tópicos
+- HTML
+- CSS
+- JavaScript
+
