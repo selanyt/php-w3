@@ -42,3 +42,10 @@ Antes de começar a estudar PHP, é recomendável que você já saiba o básico 
 - Encriptar dados
 
 > Não limitado a HTML: imagens, PDFs, conteúdo flash, texto, XHTML e XML
+
+### Por que usar
+- Multiplataforma: Windows, Linux, Mac OS, etc
+- Compatibilidade com a maioria dos servidores web usados atualmente
+- Suporte a um largo número de bancos de dados
+- PHP é grátis e livre: http://www.php.net/
+- PHP é fácil de aprender e roda eficientemente no servidor
