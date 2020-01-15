@@ -8,3 +8,6 @@ Repo for W3Schools PHP tutorials files and exercises (🇧🇷 PT-BR)
 - Software livre
 - Alternativa eficiente às concorrentes, como ASP (da Microsoft)
 - Até o presente momento (15/01/2019), o PHP 7 é a última versão estável
+
+## Introdução
+- Linguagem de lado servidor (ou Server Side Language): o código é executado no servidor
