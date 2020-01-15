@@ -27,3 +27,7 @@ Antes de começar a estudar PHP, é recomendável que você já saiba o básico 
 - Poder: está no núcleo do WordPress e roda o Facebook
 - Facilidade: pode ser a primeira linguagem de lado servidor para um iniciante
 
+### Arquivo PHP
+- Um arquivo PHP pode conter: Texto, HTML, CSS, JavaScript e **Código PHP**
+- Fluxo: códigos PHP executados no servidor e resultados exibidos no navegador
+- Extensão: **.php**
