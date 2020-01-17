@@ -49,3 +49,7 @@ Antes de começar a estudar PHP, é recomendável que você já saiba o básico 
 - Suporte a um largo número de bancos de dados
 - PHP é grátis e livre: http://www.php.net/
 - PHP é fácil de aprender e roda eficientemente no servidor
+
+### Onde baixar
+Você pode encontrar instruções específicas para o seu sistema operacional na página oficial de [instalação](https://www.php.net/manual/en/install.php "PHP: Installation and Configuration - Manual") do PHP.
+
