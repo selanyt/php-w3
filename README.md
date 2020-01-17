@@ -68,3 +68,7 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
   // o código PHP fica exatamente entre esses dois conjuntos de simbolos
 ?>
 ```
+**A extensão padrão de arquivos PHP é .php**
+
+- Geralmente, um arquivo PHP contém tags HTML e alguns códigos de script
+
