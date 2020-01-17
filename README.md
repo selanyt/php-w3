@@ -72,3 +72,18 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 
 - Geralmente, um arquivo PHP contém tags HTML e alguns códigos de script
 
+## Exemplo #02: imprimindo o "Hello, Word!"
+
+```html
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My first PHP page</h1>
+
+    <?php
+      echo "Hello World!";
+    ?>
+  </body>
+</html>
+```
+
