@@ -57,3 +57,8 @@ Você pode encontrar instruções específicas para o seu sistema operacional na
 > ```console
 foo@bar:# apt-get install php5-common libapache2-mod-php5 php5-cli
 ```
+
+## Síntaxe PHP
+Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
+- Scripts PHP podem ser colocados em qualquer lugar do documento .php
+
