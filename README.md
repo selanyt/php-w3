@@ -87,3 +87,5 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 </html>
 ```
 
+- O código acima parece pertencer a um arquivo de extensão .html, mas é .php
+- Entre a sexta e a oitava linha, podemos observar um código PHP. Na sétima, fazemos uso de uma função bult-in. ```echo``` imprime conteúdo na tela do usuário.
