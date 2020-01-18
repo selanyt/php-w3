@@ -55,8 +55,8 @@ Você pode encontrar instruções específicas para o seu sistema operacional na
 
 > Em distibruições GNU/Linux baseadas em Debian, basta usar o apt-get:
 > ```console
-foo@bar:# apt-get install php5-common libapache2-mod-php5 php5-cli
-```
+> foo@bar:# apt-get install php5-common libapache2-mod-php5 php5-cli
+> ```
 
 ## Síntaxe PHP
 Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
